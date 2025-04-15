@@ -1,0 +1,5 @@
+Numero matricule:12578
+ nom :zorome
+ prenom :kabir
+ date de naissance :25octobre2005
+ Etablissement dorigine :gouletilo Moyenne : 19.000000
